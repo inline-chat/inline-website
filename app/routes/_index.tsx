@@ -457,7 +457,7 @@ export default function Index() {
           </div>
           <div>
             <a
-              href="https://github.com/inlinehq"
+              href="https://github.com/inline-chat"
               target="_blank"
               rel="noopener noreferrer"
               {...stylex.props(styles.footerLink)}
