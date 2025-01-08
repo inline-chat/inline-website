@@ -16,8 +16,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         />
         <meta name="twitter:image" content="https://inline.chat/twitter-og.jpg" />
         <meta name="og:image" content="https://inline.chat/twitter-og.jpg" />
-        <link href="favicon-black.png" rel="icon" media="(prefers-color-scheme: light)" />
-        <link href="favicon-white.png" rel="icon" media="(prefers-color-scheme: dark)" />
+        <link rel="icon" href="/favicon.ico" />
+
         <link
           href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@700&family=Reddit+Mono:wght@400&display=swap"
           rel="stylesheet"
