@@ -476,8 +476,8 @@ export default function Index() {
             </a>
           </div>
           <div>
-            <a href="https://noor.to" target="_blank" rel="noopener noreferrer" {...stylex.props(styles.footerLink)}>
-              Our previous app
+            <a href="/privacy" {...stylex.props(styles.footerLink)}>
+              Privacy
             </a>
           </div>
           <a
