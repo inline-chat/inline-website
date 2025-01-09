@@ -184,8 +184,8 @@ export default function Index() {
                 }}
                 src="/logotype-white.svg"
                 alt="Inline"
-                height="22px"
-                width="96px"
+                height="18px"
+                width="75px"
               />
             </motion.div>
           </h1>
